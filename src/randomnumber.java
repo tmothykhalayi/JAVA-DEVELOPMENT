@@ -7,7 +7,7 @@ public class randomnumber {
             int number;
             boolean isHeads;
 
-            number = random.nextInt(1, 7);
+            number = random.nextInt(1, 2);
 
             isHeads = random.nextBoolean();
 
