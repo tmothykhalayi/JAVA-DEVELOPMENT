@@ -33,7 +33,7 @@ public class weightconverter {
                 System.out.printf("The new weight in lbs is: %.2f", newWeight);
             }
             else{
-                System.out.println("That was not a valid choice");
+                System.out.println("This is not a valid choice");
             }
 
             scanner.close();
