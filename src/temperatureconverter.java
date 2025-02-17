@@ -21,7 +21,4 @@ public class temperatureconverter {
 
             scanner.close();
         }
-
-
-
 }

@@ -12,6 +12,7 @@ public class Area {
         if (radius < 0) {
             System.out.println("Radius cannot be negative. Please enter a positive value.");
         } else {
+
             double area = calculateArea(radius);
             System.out.println("The area of the circle is: " + area);
         }
