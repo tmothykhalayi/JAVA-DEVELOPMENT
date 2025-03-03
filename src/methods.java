@@ -4,6 +4,8 @@ public class methods {
             // method =  a block of reusable code that is executed when called ()
 
             happyBirthday("Timothy", 30);
+            happyBirthday("Timoth", 26);
+            happyBirthday("Timo", 47);
         }
         static void happyBirthday(String name, int age){
             System.out.println("Happy Birthday to you!");
